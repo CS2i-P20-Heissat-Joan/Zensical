@@ -34,3 +34,10 @@ config:
               PRODUCT-CATEGORY ||--|{ PRODUCT : contains
               PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ``` 
+
+```mairmaid
+    pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```
