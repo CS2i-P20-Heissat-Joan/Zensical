@@ -1,3 +1,8 @@
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
 ```mermaid
     gitGraph
         commit
